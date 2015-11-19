@@ -1,0 +1,6 @@
+Needed libs:
+
+libqt5serialport5
+
+since the optoforce node requires sudo privileges to run, we need to export the enviroment variables to the root space.
+that's sucks but I can not do anything about that because the libraries provided by optoforce recquires that (and I don't have to sources).
